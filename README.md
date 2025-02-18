@@ -15,7 +15,7 @@ APUNTES DE TRANSUCRSO DE CLASES
 (---Para poder ejecutar cada ejercicio de cada dia---)
 
 1. buscar/entrar (cd) a la carpeta principal en la terminal
-2. luego procedemos a ingresar "python3 (documento.py)
+2. luego procedemos a ingresar "python3 (documento.py)"
 3. y asi ejecutariamos el codigo.
 
 ---------------------------------------------------------------
